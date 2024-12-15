@@ -1,4 +1,4 @@
-import { haircuts, products } from '@/lib/data';
+import { products } from '@/lib/data';
 import React from 'react'
 
 type ProductCardProps = {
